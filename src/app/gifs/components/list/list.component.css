@@ -1,0 +1,8 @@
+.row {
+  overflow-y: auto;
+}
+
+img {
+  height: 150px;
+  object-fit: cover;
+}
